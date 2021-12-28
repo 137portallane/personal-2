@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <title>John's personal website</title>
+</head>
+
+<body>
+  <table cellspacing="50">
+    <tr>
+      <td><img src="John circle profile.png" alt="John Viers Profile picture"></td>
+      <td><h1>John Viers</h1>
+      <p><em>Founder and CEO of JV2 Digital</em></p>
+      <p>I am the founder of the multi million dollar Digital
+        Advertisement company. My newyork best sellers sold millions
+        of copies and has help people all over the world</p></td>
+    </tr>
+  </table>
+
+  <h1>John Viers</h1>
+  <p><em>Founder and CEO of JV2 Digital</em></p>
+  <p>I am the founder of the multi million dollar Digital
+    Advertisement company. My newyork best sellers sold millions
+    of copies and has help people all over the world</p>
+  <hr>
+  <h3>Early Bio</h3>
+  <p>
+    John Viers II was born on August 28th, 1986 in a small town
+    of decatur, AL. His parents John and Janet Viers raised him in church
+    where he spent alot of time growing up. Both of his parents were musicians
+    at the church, so he naturally gravtated to become a musician as well. From
+    there,
+    he began to progess quickly and eventually started playing gigs all over the
+    area
+  <ul>
+    <li>Endored with <a href="http://www.mtdbass.com/">MTD Bass</a> as an Emerging artist</li>
+    <li>Has played bas or shared the stage with many artist</li>
+    <li>Worked as a musican abroad in countries such a China
+      Hong Kong... and many more</li>
+    <li>Release to 3 EP's and 2 Albums</li>
+    <li>Is the own of the webisite <a href="https://www.pchack123.com">www.pchack123.com</a> </li>
+  </ul>
+  <hr>
+  <h3>Years of Service</h3>
+  <table border="1">
+  <thead>
+    <tr>
+      <th>Dates</th>
+      <th>Work</th>
+    </tr>
+
+  </thead>
+  <tbody>
+
+  </tbody>
+  <tfoot>
+
+  </tfoot>
+    <tr>
+      <td>2014-2015</td>
+      <td>Bassist for an abroad Residency</td>
+    </tr>
+    <tr>
+      <td>2016</td>
+      <td>Return back to the US</td>
+    </tr>
+</table>
+<hr>
+
+  <h2>Skills</h2>
+  <table cellspacing="30">
+    <tr>
+      <td>Experience Bassist</td>
+      <td>⭐⭐⭐⭐⭐</td>
+
+    </tr>
+    <tr>
+      <td>Quick thinker</td>
+      <td>⭐⭐⭐⭐⭐</td>
+
+
+    </tr>
+    <td>Attractive Personality</td>
+    <td>⭐️⭐️⭐️⭐️⭐️</td>
+    <tr>
+
+    </tr>
+  </table>
+
+  <hr>
+
+  <ul>
+    <a href="Hobbies.html">
+      <li>See My Hobbies</li>
+    </a>
+    <a href="Contactpage.html">
+      <li>Contact Us</li>
+    </a>
+    <a href="Privatepolicy.html">
+      <li>Private policy</li>
+    </a>
+
+  </ul>
+
+  </p>
+</body>
+
+</html>
